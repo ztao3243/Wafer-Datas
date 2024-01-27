@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>open_106.jpg</filename>
+	<path>F:\paper\wafer\dataset\WaferData\voc_wafer_dataset\VOC\VOC2007(Raw data)\open\JPEGImage\open_106.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>7</ymin>
+			<xmax>496</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>edge_bite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>682</xmin>
+			<ymin>660</ymin>
+			<xmax>727</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+</annotation>

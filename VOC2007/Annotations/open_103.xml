@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>open_103.jpg</filename>
+	<path>F:\paper\wafer\dataset\WaferData\voc_wafer_dataset\VOC\VOC2007(Raw data)\open\JPEGImage\open_103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>280</ymin>
+			<xmax>86</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stains_enbedded</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>525</ymin>
+			<xmax>508</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

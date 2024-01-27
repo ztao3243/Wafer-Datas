@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>edge_bite50.jpg</filename>
+	<path>F:\paper\wafer\dataset\WaferData\voc_wafer_dataset\VOC\VOC2007(Raw data)\edge_bite\JPEGImage\edge_bite50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>edge_bite</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>690</ymin>
+			<xmax>193</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>edge_bite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>8</ymin>
+			<xmax>87</xmax>
+			<ymax>45</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>waferImg_2708.jpg</filename>
+	<path>F:\paper\wafer\dataset\WaferData\voc_wafer_dataset\JPEGImages\waferImg_2708.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stains_enbedded</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>128</ymin>
+			<xmax>536</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

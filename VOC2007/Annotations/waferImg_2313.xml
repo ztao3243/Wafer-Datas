@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>waferImg_2313.jpg</filename>
+	<path>F:\paper\wafer\dataset\WaferData\voc_wafer_dataset\VOC\VOC2007(Raw data)\short_cricuit\JPEGImage\waferImg_2313.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Short_circuit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>861</xmin>
+			<ymin>464</ymin>
+			<xmax>1014</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Short_circuit</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1175</xmin>
+			<ymin>498</ymin>
+			<xmax>1280</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>

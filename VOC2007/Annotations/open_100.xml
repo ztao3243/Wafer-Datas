@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>open_100.jpg</filename>
+	<path>F:\paper\wafer\dataset\WaferData\voc_wafer_dataset\VOC\VOC2007(Raw data)\open\JPEGImage\open_100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>412</ymin>
+			<xmax>262</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1109</xmin>
+			<ymin>503</ymin>
+			<xmax>1277</xmax>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+</annotation>

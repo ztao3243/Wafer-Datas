@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>waferImg_3492.jpg</filename>
+	<path>F:\paper\wafer\dataset\WaferData\voc_wafer_dataset\JPEGImages\waferImg_3492.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Short_circuit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1067</xmin>
+			<ymin>521</ymin>
+			<xmax>1239</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

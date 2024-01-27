@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>waferImg_6037_h_filp.jpg</filename>
+	<path>F:\paper\wafer\dataset\WaferData/voc_wafer_dataset\VOC\VOC2007(finlly)\VOC(Row)\short_cricuit\Annotation1/waferImg_6037_h_filp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Short_circuit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1028</xmin>
+			<ymin>366</ymin>
+			<xmax>1155</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>open_43_h_flip.jpg</filename>
+	<path>F:\paper\wafer\dataset\WaferData/voc_wafer_dataset\VOC\VOC2007(finlly)\VOC(Row)\open\Annotation/open_43_h_flip.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>316</ymin>
+			<xmax>1041</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>
